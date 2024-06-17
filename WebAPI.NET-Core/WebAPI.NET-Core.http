@@ -1,6 +1,0 @@
-@WebAPI.NET_Core_HostAddress = http://localhost:5048
-
-### GET {{WebAPI.NET_Core_HostAddress}}/weatherforecast/
-### Accept: application/json
-
-###
